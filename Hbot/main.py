@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from rag_backend import get_rag_response
 from contextlib import asynccontextmanager
 # --- IMPORTANT: REPLACE WITH YOUR TOKEN ---
-TELEGRAM_BOT_TOKEN = "8429277055:AAEFSz9v0BLk9oVatdE8QVWO-TiPvACAlSU"
+TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
