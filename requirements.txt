@@ -1,0 +1,6 @@
+pandas
+numpy
+pyspark
+happybase
+streamlit
+matplotlib

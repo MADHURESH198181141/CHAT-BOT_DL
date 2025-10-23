@@ -1,7 +1,0 @@
-pandas
-langchain
-langchain-community
-chromadb
-fastapi
-uvicorn
-python-telegram-bot[ext]
